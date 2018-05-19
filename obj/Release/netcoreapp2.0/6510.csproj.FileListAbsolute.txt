@@ -1,0 +1,10 @@
+/Users/akerridge/repos/6510/bin/Release/netcoreapp2.0/6510.deps.json
+/Users/akerridge/repos/6510/bin/Release/netcoreapp2.0/6510.runtimeconfig.json
+/Users/akerridge/repos/6510/bin/Release/netcoreapp2.0/6510.runtimeconfig.dev.json
+/Users/akerridge/repos/6510/bin/Release/netcoreapp2.0/6510.dll
+/Users/akerridge/repos/6510/bin/Release/netcoreapp2.0/6510.pdb
+/Users/akerridge/repos/6510/obj/Release/netcoreapp2.0/6510.csproj.CoreCompileInputs.cache
+/Users/akerridge/repos/6510/obj/Release/netcoreapp2.0/6510.AssemblyInfoInputs.cache
+/Users/akerridge/repos/6510/obj/Release/netcoreapp2.0/6510.AssemblyInfo.cs
+/Users/akerridge/repos/6510/obj/Release/netcoreapp2.0/6510.dll
+/Users/akerridge/repos/6510/obj/Release/netcoreapp2.0/6510.pdb
